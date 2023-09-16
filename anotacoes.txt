@@ -1,0 +1,10 @@
+Media Query
+
+3 Breakpoints
+
+1. MAIOR que 900px
+2. MENOR que 900px - MAIOR que 700px
+3. MENOR que 700px
+
+media="screen and (min-width: 900px)"
+

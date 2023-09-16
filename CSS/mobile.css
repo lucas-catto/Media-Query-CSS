@@ -1,0 +1,12 @@
+
+#icone-menu {
+    flex-grow:        1;
+    display:          flex;
+    align-items:      center;
+    justify-content:  flex-end;
+    margin:           0 10px 0 0;
+    font-size:        16pt;
+    color:            var(--defaultBlue);
+}
+
+nav { display: none; }
